@@ -70,4 +70,4 @@ Nesne yönelimli programlama prensiplerine uygun olarak geliştirilmiş, gereksi
 
 ## Video Tanıtımı
 Projeyi çalıştırırken ve kod yapısını gösterirken çekilen video:  
-[videolar/PersonelKayitSistemi.mp4]
+[video/PersonelKayitSistemi.mp4]
