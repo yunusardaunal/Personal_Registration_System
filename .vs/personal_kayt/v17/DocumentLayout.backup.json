@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|c:\\users\\arda\\desktop\\personal_kayt\\personal_kayt\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|c:\\users\\arda\\desktop\\personal_kayt\\personal_kayt\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|c:\\users\\arda\\desktop\\personal_kayt\\personal_kayt\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B611A0-DB1A-4287-8539-EB9D61F73E36}|personal_kayt\\personal_kayt.csproj|solutionrelative:personal_kayt\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\README.md",
+              "RelativeDocumentMoniker": "personal_kayt\\README.md",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\README.md",
+              "RelativeToolTip": "personal_kayt\\README.md",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-29T21:07:11.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Personel.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\Personel.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Personel.cs",
+              "RelativeToolTip": "personal_kayt\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:38:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormAnaForm.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormAnaForm.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormAnaForm.cs",
+              "RelativeToolTip": "personal_kayt\\FormAnaForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:52:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGiris.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGiris.cs",
+              "RelativeToolTip": "personal_kayt\\FormGiris.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:25:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Program.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\Program.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Program.cs",
+              "RelativeToolTip": "personal_kayt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:22:15.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGiris.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personal_kayt\\FormGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:16:08.948Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGrafikler.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormGrafikler.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGrafikler.cs",
+              "RelativeToolTip": "personal_kayt\\FormGrafikler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:37:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormGrafikler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGrafikler.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormGrafikler.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormGrafikler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personal_kayt\\FormGrafikler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:20:30.855Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormAnaForm.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\FormAnaForm.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\FormAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personal_kayt\\FormAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:46:16.488Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formistatistik.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Formistatistik.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\Formistatistik.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Formistatistik.cs",
+              "RelativeToolTip": "personal_kayt\\Formistatistik.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:32:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formistatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Formistatistik.cs",
+              "RelativeDocumentMoniker": "personal_kayt\\Formistatistik.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\personal_kayt\\personal_kayt\\Formistatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personal_kayt\\Formistatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:22:56.672Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
